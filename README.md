@@ -5,7 +5,7 @@ Este repositorio contiene la resolución práctica de la **Evaluación Final** p
 
 ## 🚀 Estructura del Repositorio
 
-* `notebook_evaluacion.ipynb`: Cuaderno de Google Colab con el flujo de código completo (EDA, preprocesamiento, vectorización y entrenamiento).
+* `Entrega_final_Data_science_III.ipynb`: Cuaderno de Google Colab con el flujo de código completo (EDA, preprocesamiento, vectorización y entrenamiento).
 * `best_model.pth`: Archivo de parámetros y pesos optimizados de la red neuronal, guardado automáticamente mediante la estrategia de *Early Stopping*.
 * `requirements.txt`: Listado de librerías base necesarias para garantizar la reproducibilidad del entorno.
 
